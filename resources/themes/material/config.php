@@ -1,24 +1,24 @@
 <?php
 
-                                         
+
 //            JJJJJJJJJJJKKKKKKKKK    KKKKKKK
 //            J:::::::::JK:::::::K    K:::::K
 //            J:::::::::JK:::::::K    K:::::K
 //            JJ:::::::JJK:::::::K   K::::::K
 //              J:::::J  KK::::::K  K:::::KKK
-//              J:::::J    K:::::K K:::::K   
-//              J:::::J    K::::::K:::::K    
-//              J:::::j    K:::::::::::K     
-//              J:::::J    K:::::::::::K     
-//  JJJJJJJ     J:::::J    K::::::K:::::K    
-//  J:::::J     J:::::J    K:::::K K:::::K   
+//              J:::::J    K:::::K K:::::K
+//              J:::::J    K::::::K:::::K
+//              J:::::j    K:::::::::::K
+//              J:::::J    K:::::::::::K
+//  JJJJJJJ     J:::::J    K::::::K:::::K
+//  J:::::J     J:::::J    K:::::K K:::::K
 //  J::::::J   J::::::J  KK::::::K  K:::::KKK
 //  J:::::::JJJ:::::::J  K:::::::K   K::::::K
 //   JJ:::::::::::::JJ   K:::::::K    K:::::K
 //     JJ:::::::::JJ     K:::::::K    K:::::K
 //       JJJJJJJJJ       KKKKKKKKK    KKKKKKK
 //
-//        Material theme by Justin Kruit     
+//        Material theme by Justin Kruit
 
 // Choose the color you want.
 // Available options:
@@ -57,6 +57,10 @@ $themeiconsright = true;
 
 // Choose to show the info button on the right of files
 $showinfobutton = true;
+
+$themefavicon = true;
+// Options are 'border' and 'filled'
+$faviconstyle = 'filled';
 
 // It would be really supportive to leave both on true
 $supportdirectorylister = true;
